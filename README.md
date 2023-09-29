@@ -7,4 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Muhammad Farid, [Website](https://faridkyojin.github.io/fxd/).
+* Muhammad Farid, [faridkyojin.github.io/fxd](https://faridkyojin.github.io/fxd/).
